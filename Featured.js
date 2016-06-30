@@ -25,7 +25,7 @@ class Featured extends Component {
             <NavigatorIOS
                 style={styles.container}
                 initialRoute={{
-            title: 'Featured Books',
+            title: 'Stephens Books',
             component: BookList
         }}/>
         );

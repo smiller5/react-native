@@ -25,7 +25,7 @@ class Search extends Component {
             <NavigatorIOS
                 style={styles.container}
                 initialRoute={{
-            title: 'Search Books',
+            title: 'Search Stephens favorite books',
             component: SearchBooks
         }}/>
         );
